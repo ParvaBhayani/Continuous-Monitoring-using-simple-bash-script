@@ -5,8 +5,7 @@ COUNT=5
 checkperiod=60 #seconds
 current_status_down_count=/etc/device_link/down/down.txt
 current_status_up_count=/etc/device_link/up/up.txt
-#touch current_status_down_count
-#touch current_status_up_count
+
 cmt=0
 while true
 do
